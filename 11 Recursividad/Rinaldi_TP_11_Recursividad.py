@@ -139,9 +139,3 @@ print(f"contar_digito(5555, 5) = {contar_digito(5555, 5)}")
 print(f"contar_digito(123456, 7) = {contar_digito(123456, 7)}")    
 
 print("-" * 50)
-
-""" Explicación de conceptos utilizados:
-- Caso base: condición que detiene la recursión
-- Caso recursivo: la función se llama a sí misma con un parámetro modificado
-- Cada función recursiva debe acercarse al caso base en cada llamada
-- La recursión es útil para problemas que se pueden dividir en subproblemas similares """
